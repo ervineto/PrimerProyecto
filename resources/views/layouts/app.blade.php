@@ -8,9 +8,9 @@
     <!-- <link rel="stylesheet" href="css/styles.css"> -->
   </head>
 <body>
-  @section('barralateral')
+  <!-- @section('barralateral')
     Esta es la barra lateral principal.
-   @show
+   @show -->
   <div class="container">
     @yield('contenido')
   </div>
