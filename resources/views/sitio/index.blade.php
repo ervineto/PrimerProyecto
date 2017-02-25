@@ -1,3 +1,6 @@
-Hola Mundo desde una vista
+@extends('layouts.app')
+@section('contenido')
+<p>Hola Mundo.</p>
+@stop
 
 
